@@ -1,0 +1,3 @@
+PS C:\Users\Dell\OneDrive\Estudos\exercicios-js> cd html
+PS C:\Users\Dell\OneDrive\Estudos\exercicios-js\html> http-server .
+PS C:\Users\Dell\OneDrive\Estudos\exercicios-js\html> http-server -c-1 .
